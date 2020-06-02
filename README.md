@@ -1,9 +1,9 @@
 # Aula Udemy Python<br/>
 
-<i>"""
+<i>"""<br/>
 Aulas de Python que estou fazendo na Udemy<br/>
 
 
-#PEP8 - Style codes
+#PEP8 - Style codes<br/>
 """
 </i>
