@@ -3,7 +3,10 @@
 <i>"""<br/>
 Aulas de Python que estou fazendo na Udemy<br/>
 
-
-#PEP8 - Style codes<br/>
+<ul type="circle">
+  <li>PEP8 - Style codes</li>
+  <li>dir e help</li>
+  <li>print, input, num_inteiros</li>
+</ul>
 """
 </i>
