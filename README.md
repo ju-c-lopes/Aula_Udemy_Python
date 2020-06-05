@@ -3,7 +3,7 @@
 <i>"""<br/>
 Aulas de Python que estou fazendo na Udemy<br/>
 <img src="guppe/up/518455_previewnew.png" align="left"/>
-<br/>
+<br/><br/><br/><br/><br/>
 <ul type="circle">
   <li>PEP8 - Style codes</li>
   <li>dir e help</li>
