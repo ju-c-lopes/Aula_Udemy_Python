@@ -2,12 +2,15 @@
 
 <i>"""<br/>
 Aulas de Python que estou fazendo na Udemy<br/>
-
+<img src="guppe/up/518455_previewnew.png" align="left"/>
+<br/>
 <ul type="circle">
   <li>PEP8 - Style codes</li>
   <li>dir e help</li>
   <li>print, input, num_inteiros</li>
   <li>float, booleano, string</li>
+  <li>escopo das variáveis</li>
+  <li>exercícios parte 1</li>
 </ul>
 """
 </i>
