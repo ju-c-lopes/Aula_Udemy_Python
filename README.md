@@ -1,4 +1,4 @@
-# Aula Udemy Python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://drive.google.com/file/d/1G3CVqhz8l0J3Fx543WDn7-gTDaTC-e_G/view?usp=sharing"></a><br/>
+# Aula Udemy Python <a href="https://drive.google.com/file/d/1G3CVqhz8l0J3Fx543WDn7-gTDaTC-e_G/view?usp=sharing"></a><br/>
 
 <i>"""<br/>
 Aulas de Python que estou fazendo na Udemy<br/>
