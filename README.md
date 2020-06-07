@@ -11,6 +11,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>float, booleano, string</li>
   <li>escopo das variáveis</li>
   <li>exercícios parte 1</li>
+  <li>exercícios parte 2</li>
 </ul>
 """
 </i>

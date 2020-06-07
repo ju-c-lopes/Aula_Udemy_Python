@@ -6,12 +6,12 @@ print(num)
 num = 42.3
 print(num)
 
-# Exercício 3
-# a = int(input('Digite o primeiro num: '))
-# b = int(input('Digite o segundo num: '))
-# c = int(input('Digite o terceiro num: '))
-# soma = a + b + c
-# print(soma)
+Exercício 3
+a = int(input('Digite o primeiro num: '))
+b = int(input('Digite o segundo num: '))
+c = int(input('Digite o terceiro num: '))
+soma = a + b + c
+print(soma)
 
 # Exercício 4
 num = 33.5
@@ -44,4 +44,19 @@ print(f'{graus_celsius}°C equivale a {graus_kelvin}°K\n')
 # Exercicio 10
 vel_km = 90
 vel_m = vel_km / 3.6
-print(f'{vel_km}km/h equivale a {vel_m}m/s')
+print(f'{vel_km}km/h equivale a {vel_m}m/s\n')
+
+# Exercicio 11
+vel_m = 35
+vel_km = vel_m * 3.6
+print(f'{vel_m}m/s equivale a {vel_km}km/h\n')
+
+# Exercicio 12
+vel_ml = 85
+vel_km = vel_ml * 1.61
+print(f'{vel_ml}ml/h equivale a {vel_km}km/h\n')
+
+# Exercicio 13
+vel_km = 120
+vel_ml = vel_km / 1.61
+print(f'{vel_km}km/h equivale a {vel_ml}ml/h')
