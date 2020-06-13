@@ -6,7 +6,7 @@ print(num)
 num = 42.3
 print(num)
 
-Exercício 3
+# Exercício 3
 a = int(input('Digite o primeiro num: '))
 b = int(input('Digite o segundo num: '))
 c = int(input('Digite o terceiro num: '))

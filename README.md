@@ -12,6 +12,9 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>escopo das variáveis</li>
   <li>exercícios parte 1</li>
   <li>exercícios parte 2</li>
+  <li>if, else, elif</li>
+  <li>and, or, not, is</li>
+  <li>loop for</li>
 </ul>
 """
 </i>
