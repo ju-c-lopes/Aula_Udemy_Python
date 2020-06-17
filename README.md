@@ -14,7 +14,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>exercícios parte 2</li>
   <li>if, else, elif</li>
   <li>and, or, not, is</li>
-  <li>loop for</li>
+  <li>loop for, while, break</li>  
 </ul>
 """
 </i>
