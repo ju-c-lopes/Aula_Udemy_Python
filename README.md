@@ -1,8 +1,8 @@
-# Aula Udemy Python <img src="guppe/up/me_peq.png" align="right"></a><br/>
+# Aula Udemy Python <img src="https://i.imgur.com/Pxy5QNG.png" align="right"></a><br/>
 
 <i>"""<br/>
 Aulas de Python que estou fazendo na Udemy<br/>
-<img src="guppe/up/518455_previewnew.png" align="left"/>
+<img src="https://i.imgur.com/ab1DsrJ.png" align="left"/>
 <br/><br/><br/><br/><br/>
 <ul type="circle">
   <li>PEP8 - Style codes</li>
@@ -14,7 +14,8 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>exercícios parte 2</li>
   <li>if, else, elif</li>
   <li>and, or, not, is</li>
-  <li>loop for, while, break</li>  
+  <li>loop for, while, break</li>
+  <li>Listas e manipulação de listas</li>
 </ul>
 """
 </i>
