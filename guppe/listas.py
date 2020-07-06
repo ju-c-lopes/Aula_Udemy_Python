@@ -389,4 +389,3 @@ print(nova)
 # lista5 = list('Geek University')
 
 # cores = ['verde', 'amarelo', 'azul', 'branco']
-

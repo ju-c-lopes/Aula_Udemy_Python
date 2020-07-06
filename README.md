@@ -16,6 +16,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>and, or, not, is</li>
   <li>loop for, while, break</li>
   <li>Listas e manipulação de listas</li>
+  <li>Tuplas</li>
 </ul>
 """
 </i>
