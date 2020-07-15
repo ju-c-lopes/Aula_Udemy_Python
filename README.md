@@ -17,6 +17,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>loop for, while, break</li>
   <li>Listas e manipulação de listas</li>
   <li>Tuplas</li>
+  <li>Dicionários / Mapas</li>
 </ul>
 """
 </i>
