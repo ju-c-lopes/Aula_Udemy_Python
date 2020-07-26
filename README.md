@@ -19,6 +19,8 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Tuplas</li>
   <li>Dicionários / Mapas</li>
   <li>Conjuntos</li>
+  <li>Módulo Collections - Counter</li>
+  <li>Módulo Collections - Default Dict</li>
 </ul>
 """
 </i>
