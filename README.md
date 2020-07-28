@@ -21,6 +21,9 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Conjuntos</li>
   <li>Módulo Collections - Counter</li>
   <li>Módulo Collections - Default Dict</li>
+  <li>Módulo Collections - Ordered Dict</li>
+  <li>Módulo Collections - Named Tuple</li>
+  <li>Módulo Collections - Deque</li>
 </ul>
 """
 </i>
