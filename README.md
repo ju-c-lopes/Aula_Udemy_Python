@@ -24,6 +24,8 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Módulo Collections - Ordered Dict</li>
   <li>Módulo Collections - Named Tuple</li>
   <li>Módulo Collections - Deque</li>
+  <li>Definindo Funções</li>
+  <li>Funções com Retorno</li>
 </ul>
 """
 </i>
