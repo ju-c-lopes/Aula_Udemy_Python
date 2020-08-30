@@ -26,6 +26,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Módulo Collections - Deque</li>
   <li>Definindo Funções</li>
   <li>Funções com Retorno</li>
+  <li>Funções com Parêmetro</li>
 </ul>
 """
 </i>
