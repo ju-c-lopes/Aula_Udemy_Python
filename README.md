@@ -27,6 +27,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Definindo Funções</li>
   <li>Funções com Retorno</li>
   <li>Funções com Parêmetro</li>
+  <li>Funções com Parêmetro Padrão</li>
 </ul>
 """
 </i>
