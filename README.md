@@ -28,6 +28,8 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Funções com Retorno</li>
   <li>Funções com Parêmetro</li>
   <li>Funções com Parêmetro Padrão</li>
+  <li>Docstrings</li>
+  <li>Entendendo o *args</li>
 </ul>
 """
 </i>
