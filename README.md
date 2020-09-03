@@ -30,6 +30,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Funções com Parêmetro Padrão</li>
   <li>Docstrings</li>
   <li>Entendendo o *args</li>
+  <li>Entendendo o **kwargs</li>
 </ul>
 """
 </i>
