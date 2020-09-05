@@ -6,20 +6,12 @@ do cilindro. O volume de um cilindm circular é calculado por meio da seguinte f
 V = π * raio² * altura , onde π = 3.141592.
 """
 from math import pi
+from convert import tofloat
 
 print('\nEste programa calculará o volume do cilindro\n')
 
-altura = input('Qual é a altura do cilindro? ')
-if altura == '':
-    altura = 0
-else:
-    altura = float(altura)
-
-raio = input('Qual é o raio do cilindro? ')
-if raio == '':
-    raio = 0
-else:
-    raio = float(raio)
+altura = tofloat(input('Qual é a altura do cilindro? '))
+raio = tofloat(input('Qual é o raio do cilindro? '))
 
 
 def calc_volume(a, r):

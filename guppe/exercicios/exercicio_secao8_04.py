@@ -8,9 +8,9 @@ outro número inteiro . Ex : 1, 4, 9 ...
 """
 
 from math import sqrt
+import convert
 
-n = input('Digite um número: ')
-n = int(n)
+n = convert.toint(input('Digite um número: '))
 
 
 def ver_quadrado_perfeito(num):

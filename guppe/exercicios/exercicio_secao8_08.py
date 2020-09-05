@@ -6,20 +6,12 @@ hipotenusa = √ a² + b² . Faça uma função que receba os valores de a e b e
 valor da hipotenusa através da equação.
 """
 from math import sqrt
+from convert import tofloat
 
 print('\nEste programa tem a função de calcular a hipotenusa através de seus catetos\n')
 
-cateto_A = input('Digite o cateto A: ')
-if cateto_A == '':
-    cateto_A = 0
-else:
-    cateto_A = float(cateto_A)
-
-cateto_B = input('Digite o cateto B: ')
-if cateto_B == '':
-    cateto_B = 0
-else:
-    cateto_B = float(cateto_B)
+cateto_A = tofloat(input('Digite o cateto A: '))
+cateto_B = tofloat(input('Digite o cateto B: '))
 
 
 def calc_hipotenusa(a, b):

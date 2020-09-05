@@ -6,12 +6,9 @@ em graus Fahrenheit. A fórmula de conversão é : F = C * (9.0/ 5.O) + 32.0, se
 temperatura em Fahrenheit e C a temperatura em Celsius.
 
 """
+from convert import tofloat
 
-celsius = input('Digite a temperaatura em Celsius: ')
-if celsius == '':
-    celsius = 0
-else:
-    celsius = float(celsius)
+celsius = tofloat(input('Digite a temperaatura em Celsius: '))
 
 
 def celsius_to_fahrenheit(c):

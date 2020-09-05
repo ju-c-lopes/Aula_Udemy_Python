@@ -4,15 +4,9 @@ Exercicios Python - Seção 8
 3. Faça uma função para verificar se um número é positivo ou negativo. Sendo que o valor
 de retmno será 1 se positivo, -1 se negativo e O se for igual a 0.
 """
+from convert import toint
 
-n = input('Digite um número: ')
-
-if n == '':
-    n = 0
-else:
-    n = int(n)
-
-print(n)
+n = toint(input('Digite um número: '))
 
 
 def ver_positivo_negativo(num):

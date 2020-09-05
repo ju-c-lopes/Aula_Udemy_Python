@@ -3,11 +3,12 @@ Exercicios Python - Seção 8
 
 10. Faça uma função que receba dois números e retome qual deles é o maior.
 """
+from convert import toint
 
 print('\nMostraremos qual entre dois números é o maior')
 
-num1 = int(input('Primeiro número: '))
-num2 = int(input('Segundo número: '))
+num1 = toint(input('Primeiro número: '))
+num2 = toint(input('Segundo número: '))
 
 
 def mostrar_maior(x, y):

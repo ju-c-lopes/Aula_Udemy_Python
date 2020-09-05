@@ -4,24 +4,11 @@ Exercicios Python - Seção 8
 6. Faça uma função que receba 3 númemos inteiros como parâmetro, representando horas,
 minutos e segundos, e os converta em segundos.
 """
+from convert import toint
 
-hora = input('Digite a hora: ')
-if hora == '':
-    hora = 0
-else:
-    hora = int(hora)
-
-minuto = input('Digite os minutos: ')
-if minuto == '':
-    minuto = 0
-else:
-    minuto = int(minuto)
-
-segundo = input('Digite os segundos: ')
-if segundo == '':
-    segundo = 0
-else:
-    segundo = int(segundo)
+hora = toint(input('Digite a hora: '))
+minuto = toint(input('Digite os minutos: '))
+segundo = toint(input('Digite os segundos: '))
 
 
 def converter_segundos(h, m, s):
