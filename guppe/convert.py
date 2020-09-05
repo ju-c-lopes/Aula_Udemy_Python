@@ -10,7 +10,7 @@ def toint(n):
 
 
 def tofloat(n):
-    """Converterá a string passada por input para int"""
+    """Converterá a string passada por input para float"""
     if n == '':
         n = 0
     else:
