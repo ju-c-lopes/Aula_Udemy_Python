@@ -32,6 +32,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Entendendo o *args</li>
   <li>Entendendo o **kwargs</li>
   <li>Exercícios - Seção 8</li>
+  <li>Comprehensions</li>
 </ul>
 """
 </i>
