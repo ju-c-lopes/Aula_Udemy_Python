@@ -1,4 +1,3 @@
-```
 # Aula Udemy Python <img src="https://i.imgur.com/Pxy5QNG.png" align="right"></a><br/>
 
 <i>"""<br/>
@@ -38,4 +37,3 @@ Aulas de Python que estou fazendo na Udemy<br/>
 </i>
 
 Curso Udemy: <a href="https://www.udemy.com/share/1013uIAEIZcVxQQXgJ/" target="_blank">Programação em Python</a>
-```
