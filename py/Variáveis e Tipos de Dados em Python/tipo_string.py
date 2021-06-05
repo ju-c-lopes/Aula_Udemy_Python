@@ -65,7 +65,7 @@ print(name)
 print(type(name))
 
 """
-A barra invertida \ pode ser usada como caractere de escape,
+A barra invertida \\ pode ser usada como caractere de escape,
 usada para permitir o uso de aspas no dentro da string
 """
 
