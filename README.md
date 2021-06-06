@@ -33,8 +33,10 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Entendendo o **kwargs</li>
   <li>Exercícios - Seção 8</li>
   <li>Comprehensions</li>
+  <li>Expressões Lambdas</li>
+  <li>Map</li>
+  <li>Filter</li>
 </ul>
 """
-</i>
 
 Curso Udemy: <a href="https://www.udemy.com/share/1013uIAEIZcVxQQXgJ/" target="_blank">Programação em Python</a>

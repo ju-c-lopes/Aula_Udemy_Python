@@ -152,15 +152,15 @@ print(receita)
 #     Produto 2:
 #         - nome;
 #         - quantidade;
-#         -preço;
+#         - preço;
 """
 
 # 1 - Poderiamos utilizar uma lista para isso? Sim
 
 carrinho = []
 
-produto1 = ['Plaistation 4', 1, 2300.00]
-produto2 = ['God of War', 1, 1500.00]
+produto1 = ['Playstation 4', 1, 2300.00]
+produto2 = ['God of War', 1, 150.00]
 
 carrinho.append(produto1)
 carrinho.append(produto2)
@@ -252,6 +252,4 @@ veja = {}.fromkeys(range(1, 11), 'novo')
 print(veja)
 """
 
-#paises = {'br': 'Brasil', 'eua': 'Estados Unidos', 'py': 'Paraguai'}
-
-
+# paises = {'br': 'Brasil', 'eua': 'Estados Unidos', 'py': 'Paraguai'}

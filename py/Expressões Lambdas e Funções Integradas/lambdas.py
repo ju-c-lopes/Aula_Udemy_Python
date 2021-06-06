@@ -28,7 +28,7 @@ print(calc(7))
 # Podemos ter expressões lambdas com múltiplas entradas
 
 
-nome_completo = lambda nome, sobrenome: nome.strip().title() + " " + sobrenome.strip().title()
+q
 
 
 print(nome_completo(' angelina', 'JOLIE'))
@@ -61,13 +61,18 @@ print(autores)
 
 autores.sort(key=lambda sobrenome: sobrenome.split(' ')[-1].lower())
 
+#   autores  . |  sort    (   key    |  =  lambda    sobrenome:  |    sobrenome.split(' ')[-1].lower())
+#     ^        |   ^           ^     |                   ^       |  # o parametro sobrenome são os elementos da
+#     |        |   |           |     |                   |       |  # lista autores (strings de nomes inteiros)
+#  variável    | método   <-  param  |    expressão <- param     |  # split divide e [-1] pega o último valor dividido
+
 print(autores)
 
 """
 
 # Função Quadrática
 
-# f(x) = a * x ** 2 + b * x + c
+# f(x) = a * (x ** 2) + (b * x) + c
 
 # Definindo a função
 
@@ -77,7 +82,7 @@ def geradora_funcao_quadratica(a, b, c):
     return lambda x: a * x ** 2 + b * x + c
 
 
-teste = geradora_funcao_quadratica(2, 3, -5)
+# teste = geradora_funcao_quadratica(2, 3, -5)
 #
 # print(teste(0))
 # print(teste(1))

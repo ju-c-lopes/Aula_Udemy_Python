@@ -1,3 +1,4 @@
+import math
 """
 Map
 
@@ -16,6 +17,12 @@ raios = [2, 5, 7.1, 0.3]
 # areas = []
 # for r in raios:
 #     areas.append((area(r)))
+#
+# ou
+#
+# raios = [2, 5, 9, 13, 44]
+# 
+# areas = [area(r) for r in raios]
 #
 # print(areas)
 
@@ -52,19 +59,34 @@ print(list(map(lambda r: math.pi * (r ** 2), raios)))
 # O Map Object: f(a1), f(a2), f(...), f(an)
 """
 
-import math
-
-
 # Mais um exemplo
 
 cidades = [('Berlim', 29), ('Cairo', 36), ('Buenos Aires', 19), ('Los Angeles', 26), ('Tokio', 27)]
-
-print(cidades)
-
-# Celsius para Farehneith
-
-# Lambda
-
-c_para_f = lambda dado: (dado[0], (9/5) * dado[1] + 32)
+#
+# print(cidades)
+#
+# # Celsius para Farehneith
+#
+# # Lambda
+#
+c_para_f = lambda dado: (dado[0], '{:.2f}'.format((9/5) * dado[1] + 32))
 
 print(list(map(c_para_f, cidades)))
+
+
+# def area(r):
+#     return math.pi * (r ** 2)
+#
+#
+# print(area(2))
+
+# ===========================================================
+# raios = [2, 5, 7.1, 0.3]
+#
+# areas = map(area, raios)
+
+# print(areas)
+# lista = list(areas)
+# print(lista)
+
+# print(list(map(lambda r: math.pi * (r ** 2), raios)))
