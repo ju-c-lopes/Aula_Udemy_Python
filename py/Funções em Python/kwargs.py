@@ -8,7 +8,7 @@ em uma tupla, o **kwargs exige que utilizemos parâmetros nomeados, e transforma
 parâmetros extras em um dicionário.
 
 # Exemplo
-
+# Parâmetro=valor
 
 def cores_favoritas(**kwargs):
     for pessoa, cor in kwargs.items():
@@ -40,7 +40,7 @@ print(cumprimento_especial(geek='Python'))
 print(cumprimento_especial(geek='Oi'))
 print(cumprimento_especial(geek='especial'))
 
-# Nas nossas funções, podemos ter (NESTA ORDEM:
+# Nas nossas funções, podemos ter (NESTA ORDEM):
 
 - Parâmetros obrigatórios;
 - *args;
@@ -57,10 +57,10 @@ def minha_funcao(idade, nome, *args, solteiro=False, **kwargs):
     print(kwargs)
 
 
-minha_funcao(8, "Julia")
-minha_funcao(18, 'Felicity', 4, 5, 3, solteiro=True)
-minha_funcao(34, 'Felipe', eu='Não', voce='Vai')
-minha_funcao(19, 'Carla', 9, 4, 3, java=False, python=True)
+minha_funcao(8, "Julia")  # -> somente os obrigatórios (idade, nome)
+minha_funcao(18, 'Felicity', 4, 5, 3, solteiro=True)  # -> obrigatórios, *args, default (**kwargs omitido)
+minha_funcao(34, 'Felipe', eu='Não', voce='Vai')  # -> Obrigatório e **kwargs
+minha_funcao(19, 'Carla', 9, 4, 3, java=False, python=True)  # -> obrigatórios, *args, **kwargs
 
 
 # Entenda por que é importante manter a ordem dos parâmetros na declaração
@@ -114,7 +114,7 @@ dicionario = dict(a=1, b=2, c=3)
 
 soma_multiplos_numeros(**dicionario)
 
-# OBS: Ps nomes da chave em um dicionário devem ser o mesmo dos parâmetros da função
+# OBS: Os nomes da chave em um dicionário devem ser o mesmo dos parâmetros da função
 
 # dicionario = dict(d=1, e=2, f=3)
 
