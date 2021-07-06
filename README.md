@@ -34,8 +34,10 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Exercícios - Seção 8</li>
   <li>Comprehensions</li>
   <li>Expressões Lambdas</li>
-  <li>Map</li>
-  <li>Filter</li>
+  <li>Map, Filter, Reduce</li>
+  <li>Generators, Any_All</li>
+  <li>Mim e Max, Sorted</li>
+  <li>Reversed, Zip</li>
 </ul>
 """
 
