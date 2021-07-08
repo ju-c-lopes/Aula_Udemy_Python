@@ -38,6 +38,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Generators, Any_All</li>
   <li>Mim e Max, Sorted</li>
   <li>Reversed, Zip</li>
+  <li>Tratando erros, debugando</li>
 </ul>
 """
 
