@@ -118,5 +118,6 @@ def soma_impares(numeros):
     return total  # Se a identação estivesse após o bloco if, no primeiro for a função acabaria
 
 
-lista = [1, 2, 3, 4, 5, 6, 7]
-print(soma_impares(lista))
+if __name__ == '__main__':
+    lista = [1, 2, 3, 4, 5, 6, 7]
+    print(soma_impares(lista))
