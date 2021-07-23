@@ -42,6 +42,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Módulos e pacotes Python</li>
   <li>Arquivos e Diretórios</li>
   <li>Iteradores e Geradores</li>
+  <li>Decorators</li>
 </ul>
 """
 
