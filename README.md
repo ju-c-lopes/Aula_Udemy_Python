@@ -43,6 +43,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   <li>Arquivos e Diretórios</li>
   <li>Iteradores e Geradores</li>
   <li>Decorators</li>
+  <li>Orientação a Objetos</li>
 </ul>
 """
 
