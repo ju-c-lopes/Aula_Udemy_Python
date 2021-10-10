@@ -58,6 +58,9 @@ class Aquatico(Animal):
     def nadar(self):
         return f'{self._Animal__nome} do mar!'
 
+    def cumprimentar(self):
+        return f'Eu sou {self._Animal__nome} do mar!'
+
 class Terrestre(Animal):
     def __init__(self, nome):
         super().__init__(nome)
