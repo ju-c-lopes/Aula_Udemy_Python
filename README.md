@@ -58,6 +58,12 @@ Aulas de Python que estou fazendo na Udemy<br/>
   </ul>
   <li>Módulos e pacotes Python</li>
   <li>Arquivos e Diretórios</li>
+  <ul>
+    <li>Comando with</li>
+    <li>Leitura e escrita de arquivos</li>
+    <li>Arquivos CSV</li>
+    <li>Pickle e JSON</li>
+  </ul>
   <li>Iteradores e Geradores</li>
   <li>Orientação a Objetos</li>
   <ul>
