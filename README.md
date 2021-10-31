@@ -26,6 +26,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
     <li>Módulo Collections - Deque</li>
   </ul>
   <li>Comprehensions</li>
+  <li>Data e Hora</li>
   <li>Debugando, tratando erros</li>
   <li>Decorators</li>
   <li>Estruturas de Repetição</li>
