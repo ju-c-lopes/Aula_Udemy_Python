@@ -72,6 +72,13 @@ Aulas de Python que estou fazendo na Udemy<br/>
     <li>Atributos, Métodos</li>
     <li>Herança, Encapsulamento, Polimorfismo, Abstração</li>
   </ul>
+  <li>Testes com Python</li>
+  <ul>
+    <li>Doctests</li>
+    <li>Assertions</li>
+    <li>Unittest</li>
+    <li>Hooks</li>
+  </ul>
 </ul>
 """
 
