@@ -79,6 +79,12 @@ Aulas de Python que estou fazendo na Udemy<br/>
     <li>Unittest</li>
     <li>Hooks</li>
   </ul>
+  <li>Gerenciamento de memória</li>
+  <ul>
+    <li>Memória Stack</li>
+    <li>Memória Heap</li>
+    <li>GIL</li>
+  </ul>
 </ul>
 """
 
