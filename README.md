@@ -85,6 +85,13 @@ Aulas de Python que estou fazendo na Udemy<br/>
     <li>Memória Heap</li>
     <li>GIL</li>
   </ul>
+  <li>Checagem de Tipos em Python</li>
+  <ul>
+    <li>Duck Typing</li>
+    <li>Type Hinting</li>
+    <li>Mypy</li>
+    <li>Annotations</li>
+  </ul>
 </ul>
 """
 
