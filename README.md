@@ -92,6 +92,12 @@ Aulas de Python que estou fazendo na Udemy<br/>
     <li>Mypy</li>
     <li>Annotations</li>
   </ul>
+  <li>Novidades Python versão 3.8</li>
+  <ul>
+    <li>Argumentos Posicionais</li>
+    <li>Operador Walrus</li>
+    <li>Warnings Sintaxes Perigosas</li>
+  </ul>
 </ul>
 """
 
