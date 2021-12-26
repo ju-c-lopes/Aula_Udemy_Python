@@ -98,6 +98,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
     <li>Operador Walrus</li>
     <li>Warnings Sintaxes Perigosas</li>
   </ul>
+  <li>Projeto 1 - Game</li>
 </ul>
 """
 
