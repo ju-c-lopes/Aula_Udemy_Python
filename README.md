@@ -99,6 +99,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
     <li>Warnings Sintaxes Perigosas</li>
   </ul>
   <li>Projeto 1 - Game</li>
+  <li>Projeto 2 - Mercado</li>
 </ul>
 """
 
