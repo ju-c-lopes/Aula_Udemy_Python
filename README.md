@@ -1,5 +1,10 @@
 # Aula Udemy Python <img src="https://i.imgur.com/Pxy5QNG.png" align="right"></a><br/>
 
+<br>
+#####################################<br>
+######### CURSO  FINALIZADO #########<br>
+#####################################<br>
+
 <i>"""<br/>
 Aulas de Python que estou fazendo na Udemy<br/>
 <img src="https://i.imgur.com/ab1DsrJ.png" align="left"/>
@@ -100,6 +105,7 @@ Aulas de Python que estou fazendo na Udemy<br/>
   </ul>
   <li>Projeto 1 - Game</li>
   <li>Projeto 2 - Mercado</li>
+  <li>Projeto 3 - Banco</li>
 </ul>
 """
 
